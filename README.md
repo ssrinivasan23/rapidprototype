@@ -1,4 +1,0 @@
-rapidprototype
-==============
-
-Rapid Prototype
